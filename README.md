@@ -1,4 +1,4 @@
-# Yelp-Database-Challenge-2013
+# Yelp-Database-Challenge
 
 Developed a Java Swing application that queries Yelp data and displays useful information. Created tables along with key constraints, NULL constraints, referential integrity, etc. Populated database with Yelp data in JSON format. The Yelp dataset included 42,152 businesses and 252,898 users. 
 
